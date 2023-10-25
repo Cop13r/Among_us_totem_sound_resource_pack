@@ -3,4 +3,4 @@
 ## This just changes the totem Resurrection sound to among us  
 
 
-### Made by Cop13r
+### Made by [Cop13r](https://www.youtube.com/@Cop13r)
